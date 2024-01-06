@@ -1,8 +1,12 @@
 # FiveSharp Issues
 
 .issue
-..title Mensagem da Equipe
-..date 03/11/2023 20:00:00
-..desc    Olá, seja muito bem-vindo(a) ao FiveSharp. Estamos felizes por você ter escolhido fazer parte da nossa comunidade. Sinta-se à vontade para explorar tudo o que temos a oferecer e, se precisar de ajuda, estamos à disposição no nosso suporte. Esperamos que tenha uma ótima experiência!
-..link https://fivesharp.net/
+..title Indisponibilidade
+..date 06/1/2024 14:40:00
+..desc    Informamos que o FiveSharp está temporariamente indisponível. Pedimos desculpas pelo transtorno e estamos trabalhando para resolver o problema o mais rápido possível. Agradecemos sua compreensão e paciência.
+..add
+.issue
+..title Pré-venda acabou
+..date 06/1/2024 14:40:00
+..desc    O período de pré-venda do FiveSharp chegou ao fim com grande sucesso! Agradecemos a todos que participaram e apoiaram o projeto. Por favor, esteja ciente de que as recompensas extras associadas à pré-venda não serão mais reivindicáveis, agora que o período de pré-venda foi encerrado. 
 ..add
